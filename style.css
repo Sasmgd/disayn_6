@@ -1,0 +1,6 @@
+.contener{
+    max-width: 1920px;
+    width: 100%;
+    margin: 0px auto;
+    grid-template-columns: 16% 84%;
+}
